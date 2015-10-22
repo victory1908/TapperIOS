@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84278D411BD8E26F0026F3CE /* beautiful-sunset-stanley-1024x683.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84278D401BD8E26F0026F3CE /* beautiful-sunset-stanley-1024x683.jpg */; };
 		D6ABB1C21B69D7E300A1924A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6ABB1C11B69D7E300A1924A /* AppDelegate.swift */; };
 		D6ABB1C41B69D7E300A1924A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6ABB1C31B69D7E300A1924A /* ViewController.swift */; };
 		D6ABB1C71B69D7E300A1924A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6ABB1C51B69D7E300A1924A /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		84278D401BD8E26F0026F3CE /* beautiful-sunset-stanley-1024x683.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "beautiful-sunset-stanley-1024x683.jpg"; sourceTree = "<group>"; };
 		D6ABB1BE1B69D7E300A1924A /* tapper-extreme.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tapper-extreme.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6ABB1C11B69D7E300A1924A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D6ABB1C31B69D7E300A1924A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				D6ABB1C31B69D7E300A1924A /* ViewController.swift */,
 				D6ABB1C51B69D7E300A1924A /* Main.storyboard */,
 				D6ABB1C81B69D7E300A1924A /* Assets.xcassets */,
+				84278D401BD8E26F0026F3CE /* beautiful-sunset-stanley-1024x683.jpg */,
 				D6ABB1CA1B69D7E300A1924A /* LaunchScreen.storyboard */,
 				D6ABB1CD1B69D7E300A1924A /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			files = (
 				D6ABB1CC1B69D7E300A1924A /* LaunchScreen.storyboard in Resources */,
 				D6ABB1C91B69D7E300A1924A /* Assets.xcassets in Resources */,
+				84278D411BD8E26F0026F3CE /* beautiful-sunset-stanley-1024x683.jpg in Resources */,
 				D6ABB1C71B69D7E300A1924A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -285,6 +289,7 @@
 				D6ABB1D21B69D7E300A1924A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
